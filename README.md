@@ -1,4 +1,4 @@
-[MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGYwDsj3_254A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731485605654?e=1737590400&v=beta&t=wxaHB1Rjn585hbXN1vptDVjuVoEOT1ZzbS1CZ2IVt30)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGYwDsj3_254A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731485605654?e=1737590400&v=beta&t=wxaHB1Rjn585hbXN1vptDVjuVoEOT1ZzbS1CZ2IVt30)]
 <h1 align="center">Hi 👋, I'm Iqra Ahmed</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src=https://avatars.githubusercontent.com/u/83499472?v=4>
