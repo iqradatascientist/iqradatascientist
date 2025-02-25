@@ -50,9 +50,6 @@ LinkedIn Page: https://www.linkedin.com/company/datasciencenerds/
 
 Instagram: https://www.instagram.com/iqradatascientist/ 
 
-
-⚠ Note: Be cautious of scammers. The admin is not responsible for any fraud in this group.
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ni_-ntol-RlktTtg8RDZyipW4DQS9OQK/view?usp=drive_link](https://drive.google.com/file/d/1ni_-ntol-RlktTtg8RDZyipW4DQS9OQK/view?usp=drive_link)
 
 - ⚡ Fun fact **I am Ambitious and Hardworking, passionate to learn new languages/Skills.**
