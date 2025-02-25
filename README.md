@@ -6,6 +6,28 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqradatascientist&label=Profile%20views&color=0e75b6&style=flat" alt="iqradatascientist" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqradatascientist" alt="iqradatascientist" /></a> </p>
+Welcome to Data Science Nerds – Your AI & Data Science Hub!
+
+Are you passionate about Data Science, AI, and Machine Learning? Join Data Science Nerds, a community where we learn, share, and grow together!
+
+Discuss real-world data problems.
+Explore AI innovations & trends.
+Get guidance from experts & peers.
+Share queries and boost your skills.
+
+Join Now
+
+Facebook Group: https://www.facebook.com/groups/5974680992636947/
+Facebook Page: https://www.facebook.com/iqradatascientist
+LinkedIn: https://www.linkedin.com/in/iqradatascientist/
+WhatsApp Group: https://chat.whatsapp.com/H6ami8vjHKtATlAWDKUZrs
+GitHub: https://github.com/iqradatascientist/
+Kaggle: https://www.kaggle.com/iqradatascientists
+LinkedIn Page: https://www.linkedin.com/company/datasciencenerds/ 
+Instagram: https://www.instagram.com/iqradatascientist/ 
+
+
+⚠ Note: Be cautious of scammers. The admin is not responsible for any fraud in this group.
 
 - 🔭 I’m currently working on [Quality Control](https://drive.google.com/drive/folders/1GXqpwgWwPyExpshVBDTqd0fbqL6u--fO?usp=drive_link)
 
