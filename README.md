@@ -7,7 +7,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqradatascientist" alt="iqradatascientist" /></a> </p>
 
-Welcome to Data Science Nerds – Your AI & Data Science Hub!
+- 🔭 I’m currently working on [Quality Control](https://drive.google.com/drive/folders/1GXqpwgWwPyExpshVBDTqd0fbqL6u--fO?usp=drive_link)
+
+- 🌱 I’m currently learning **React Native**
+
+- 👯 I’m looking to collaborate on **R and Python Projects**
+
+- 🤝 I’m looking for help with **React Native Projects**
+
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1EbWHYa2S97GbEQQ6cMOlO1aMn2bp9ndj?usp=drive_link](https://drive.google.com/drive/folders/1EbWHYa2S97GbEQQ6cMOlO1aMn2bp9ndj?usp=drive_link)
+
+- 📝 I regularly write articles on [pakcircle.pk](pakcircle.pk)
+
+- 💬 Ask me about **R language, Python, SQL, EDA, Data Science**
+
+- 📫 How to reach me **iqraahmedstd511@gmail.com**
+  
+- Welcome to Data Science Nerds – Your AI & Data Science Hub!
 
 Are you passionate about Data Science, AI, and Machine Learning? Join Data Science Nerds, a community where we learn, share, and grow together!
 
@@ -36,22 +52,6 @@ Instagram: https://www.instagram.com/iqradatascientist/
 
 
 ⚠ Note: Be cautious of scammers. The admin is not responsible for any fraud in this group.
-
-- 🔭 I’m currently working on [Quality Control](https://drive.google.com/drive/folders/1GXqpwgWwPyExpshVBDTqd0fbqL6u--fO?usp=drive_link)
-
-- 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on **R and Python Projects**
-
-- 🤝 I’m looking for help with **React Native Projects**
-
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1EbWHYa2S97GbEQQ6cMOlO1aMn2bp9ndj?usp=drive_link](https://drive.google.com/drive/folders/1EbWHYa2S97GbEQQ6cMOlO1aMn2bp9ndj?usp=drive_link)
-
-- 📝 I regularly write articles on [pakcircle.pk](pakcircle.pk)
-
-- 💬 Ask me about **R language, Python, SQL, EDA, Data Science**
-
-- 📫 How to reach me **iqraahmedstd511@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ni_-ntol-RlktTtg8RDZyipW4DQS9OQK/view?usp=drive_link](https://drive.google.com/file/d/1ni_-ntol-RlktTtg8RDZyipW4DQS9OQK/view?usp=drive_link)
 
